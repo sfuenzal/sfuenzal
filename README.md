@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sfuenzal
 - 👀 I’m interested in Particle Physics
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on ATLAS
+- 💞️ I’m looking to collaborate on ATLAS experiment
 - 📫 How to reach me: sebastian.fuenzalidg@usm.cl
 
 <!---
